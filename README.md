@@ -1,5 +1,5 @@
 # Hello World REST API
-Basic "Hello World" REST API using PHP/Slim
+Basic "Hello World" REST API using Python/Flask-RESTful
 
 **Supports**: `GET, OPTIONS`
 
